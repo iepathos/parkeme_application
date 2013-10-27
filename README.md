@@ -7,7 +7,7 @@ Technical Intern / Junior Web Developer
 
 > + Get my resume here: [https://github.com/iepathos/parkeme_application/blob/master/glen_baker_web_resume.pdf](https://github.com/iepathos/parkeme_application/blob/master/glen_baker_web_resume.pdf)
 
-> + Find even more information about me on my linked in at: [linkedin.com/in/glenbbaker](http://linkedin.com/in/glenbbaker)
+> + Find even more information about me on my LinkedIn at: [linkedin.com/in/glenbbaker](http://linkedin.com/in/glenbbaker)
 
 > + View some of my coding samples here: [github.com/iepathos/codingsamples](http://github.com/iepathos/codingsamples)
 

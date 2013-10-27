@@ -5,7 +5,7 @@ Technical Intern / Junior Web Developer
 
 > I am very interested in the position of Technical Intern / Junior Web Developer.
 
-> + Get my resume here: [https://github.com/iepathos/parkeme_application/blob/master/glen_baker_web_resume.pdf](https://github.com/iepathos/parkeme_application/blob/master/glen_baker_web_resume.pdf)
+> + Get my resume here: [github.com/iepathos/parkeme_application/blob/master/glen_baker_web_resume.pdf](https://github.com/iepathos/parkeme_application/blob/master/glen_baker_web_resume.pdf)
 
 > + Find even more information about me on my LinkedIn at: [linkedin.com/in/glenbbaker](http://linkedin.com/in/glenbbaker)
 

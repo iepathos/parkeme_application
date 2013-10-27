@@ -13,10 +13,10 @@ Technical Intern / Junior Web Developer
 
 
 ###What do you think about ParkMe and product?
-I think ParkMe is a great product that a lot of people can benefit from.  I remember wondering once why the GPS didn't direct me to a park
+I think ParkMe is a great product that a lot of people can benefit from.
 
 ###How would you make the product better?
-I noticed on the parking lot detail pages (i.e. parkme.com/lot/<:lot_id>/<:slug>) that the 'Central Office Phone' number isn't shown by default.  Instead a '+ 1 others' link is shown and has to be clicked to reveal the number.  They take up about the same amount of space, so I would change it to show the number by default.  That way users could get the information at a glance.
+I noticed on the parking lot detail pages (i.e. parkme.com/lot/<:lot_id>/<:slug>) that the 'Central Office Phone' number isn't shown by default.  A '+ 1 others' link is shown and has to be clicked to reveal the number.  They take up about the same amount of space, so I would change it to show the number by default.  That way users could get the information at a glance.
 
 ###How would you rank yourself on the following categories (1-10)?
 Whenever I try to rank myself as a programmer I'm reminded of a video I saw of Bjarne Stroustrup where he said he would only rank his ability with C++ as an 8 on a scale of 1-10, which makes me feel like a 1 or a 2 in everything.
@@ -34,7 +34,7 @@ I was 17 when I got my first laptop (Dell Inspiron).  I immediately dual booted 
 I have used ORMs to deal with SQL databases a lot of the time.  Django has the built-in ORM and with Flask I'm fond of SQLAlchemy.  I've only had to go down to the SQL to setup new databases and users. I have ran through a couple SQL tutorials and feel like I have a good grasp of what's going on conceptually in a SQL database.  I would really like to know more about optmizing a SQL database.
 
 ###Design (Photoshop) (4)
-I like clean, minimal designs and I haven't strayed far from this.  I like most of the Bootstrap defaults and try to build on them rather than replace them.  I think this limits my designs and the types of layouts I create.
+I like clean, minimal designs and I haven't strayed far from this.  I like most of the Bootstrap defaults and try to build on them rather than replace them.  I think this limits my designs and the types of layouts I create.  I've really only used Photoshop to touch up photos and/or resize/crop them.
 
 
 > Thank you for your consideration.

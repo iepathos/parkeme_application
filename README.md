@@ -34,7 +34,7 @@ I was 17 when I got my first laptop (Dell Inspiron).  I immediately dual booted 
 I have used ORMs to deal with SQL databases a lot of the time.  Django has the built-in ORM and with Flask I'm fond of SQLAlchemy.  I've only had to go down to the SQL to setup new databases and users. I have ran through a couple SQL tutorials and feel like I have a good grasp of what's going on conceptually in a SQL database.  I would really like to know more about optimizing a SQL database.
 
 ###Design (Photoshop) (4)
-I like clean, minimal designs and I haven't strayed far from this.  I like most of the Bootstrap defaults and try to build on them rather than replace them.  I think this limits my designs and the types of layouts I create.  I've really only had to use Photoshop to touch up photos and/or resize/crop them.
+I like clean, minimal designs and I haven't strayed far from this.  I like most of the Bootstrap defaults and try to build on them rather than replace them.  I think this limits my designs and the types of layouts I create.  I've really only had to use Photoshop or Gimp to touch up photos and/or resize/crop them.
 
 
 > Thank you for your consideration.
